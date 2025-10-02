@@ -1,4 +1,4 @@
-# OCR image-only PDF files.
+# [OCR image-only PDF files.](https://github.com/gstolarov/OCR-image-only-PDF-files)
 
 ## Introduction
 The purpose of this article is to show how OCR information can be added to scanned, image-only PDFs. The benefit of this approach is that the files can be indexed by standard Adobe/Microsoft iFilters but also the text can be selected using visual tools (Adobe Reader, Chome, Edge, ...)
